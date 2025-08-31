@@ -98,7 +98,7 @@ Me chamo Natan Felipe Braz Fonseca, nascido em 20/12/2005. Atualmente, estou cur
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=HugoNunes05&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=NatanzinS2&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
